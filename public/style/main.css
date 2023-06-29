@@ -1,0 +1,8 @@
+/* main.css */
+@import "norm.css";
+
+/* stuff goes here */
+
+@media (orientation: portrait) {
+  /* more stuff goes here */
+}

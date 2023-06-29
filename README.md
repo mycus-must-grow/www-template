@@ -1,3 +1,6 @@
-# www-template
+## About
 
-Simple HTML and CSS template with a symlink to /var/norm.css
+This is supposed to be a simple `HTML`+`CSS` template to use when starting new
+web projects.
+
+I guess the only opinionated bit is it having a norm.css.
