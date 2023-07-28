@@ -1,8 +1,19 @@
-/* main.css */
-@import "norm.css";
+@import "normalize.css";
 
-/* stuff goes here */
+:root {
+    /* variables go here */
+}
 
-@media (orientation: portrait) {
-  /* more stuff goes here */
+/* vanilla stuff goes here */
+
+@media (orientation: portrait) or (max-width: 900px) {
+    /* phone stuff goes here */
+}
+
+@media (prefers-color-scheme: dark) {
+    /* dark theme stuff */
+}
+
+@media print {
+    /* yup, printing is cool. shadap */
 }
